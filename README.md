@@ -18,26 +18,26 @@
 
 ## Il gioco <a name="gameITA"></a>
 Questo repo contiene una versione **Java** del gioco [*Maestri del rinascimento*](http://www.craniocreations.it/prodotto/masters-of-renaissance/). Il progetto è stato sviluppato durante l'anno 2020/21 per il corso di **Ingegneria del Software** al Politecnico di Milano, come parte finale di valutazione per il conseguimento della laurea triennale in Ingegneria Informatica. Gli sviluppatori sono stati:
-  * [William Zeni](https://github.com/williamzeni)
+  * [William Zeni](https://github.com/williamzeni99)
   * [Giorgio Seguini](https://github.com/GiorgioSeguini)
   * [Fabio Villa](https://github.com/fabiovillaa)
  
 ## Funzionalità Implementate<a name="functionalitiesITA"></a>
 | Funzionalità | Stato |
 |:-----------------------|:------------------------------------:|
-| Regole Semplificate | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Regole Complete | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Socket |[![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| CLI | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| GUI |[![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Partite Multiple | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Resilienza | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Partita Locale | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Persistenza | [![RED](http://placehold.it/15/f03c15/f03c15)]() |
-| Editor dei parametri | [![RED](http://placehold.it/15/f03c15/f03c15)]() |
+| Regole Semplificate | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Regole Complete | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Socket | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| CLI | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| GUI | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Partite Multiple | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Resilienza | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Partita Locale | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Persistenza | [![RED](https://via.placeholder.com/15/ff0000/ff0000)]() |
+| Editor dei parametri | [![RED](https://via.placeholder.com/15/ff0000/ff0000)]() |
 
 #### Legenda
-[![RED](http://placehold.it/15/f03c15/f03c15)]() Non Implementato &nbsp;&nbsp;&nbsp;&nbsp;[![YELLOW](http://placehold.it/15/ffdd00/ffdd00)]() Implementazione in corso&nbsp;&nbsp;&nbsp;&nbsp;[![GREEN](http://placehold.it/15/44bb44/44bb44)]() Implementato
+[![RED](https://via.placeholder.com/15/ff0000/ff0000)]() Non Implementato &nbsp;&nbsp;&nbsp;&nbsp;[![YELLOW](https://via.placeholder.com/15/ffdd00/ffdd00)](#) Implementazione in corso&nbsp;&nbsp;&nbsp;&nbsp;[![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) Implementato
   
 ## Installazione <a name="installationITA"></a>
 Per avviare il gioco è necessario scaricare [JavaSE 15](https://www.oracle.com/it/java/technologies/javase-downloads.html) (o versioni superiori).
@@ -45,7 +45,7 @@ Il giocatore che creerà la partita, per poter hostare il server, può decidere 
 
 Scaricare in locale il repository come segue
 ```bash
-git clone https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni.git
+git clone https://github.com/williamzeni99/Maestri-del-Rinascimento.git
 ```
 su linux. Per windows potrebbe essere necessario scaricare il repo in formato zip ed estrarlo. 
 
@@ -108,10 +108,10 @@ La documentazione è disponibile [qui](https://github.com/GiorgioSeguini/ing-sw-
 I test hanno raggiunta la seguente copertura.
 
 
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/total.png)
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/server.png)
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/costant.png)
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/client.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/total.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/server.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/costant.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/client.png)
 
 # English Version<a name="ENG"></a>
  * [The Game](#gameENG)
@@ -128,26 +128,26 @@ I test hanno raggiunta la seguente copertura.
 
 ## The Game <a name="gameENG"></a>
 This repo contains a **Java** version of the game [*Masters of renaissance*](http://www.craniocreations.it/prodotto/masters-of-renaissance/). The project has been developed for the course **Software Engineering** at Politecnico di Milano as a final part of examination for the Bachelor in Computer Engineering. The contributors were:
-  * [William Zeni](https://github.com/williamzeni)
+  * [William Zeni](https://github.com/williamzeni99)
   * [Giorgio Seguini](https://github.com/GiorgioSeguini)
   * [Fabio Villa](https://github.com/fabiovillaa)
 
 ## Implemented Funcionalities <a name="functionalitiesENG"></a>
 | Functionalities | Status |
 |:-----------------------|:------------------------------------:|
-| Basic Rules | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Complete Rules | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Socket |[![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| CLI | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| GUI |[![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Multiple Games | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Resilience | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Local Game | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
-| Persistence | [![RED](http://placehold.it/15/f03c15/f03c15)]() |
-| Parameter Editor | [![RED](http://placehold.it/15/f03c15/f03c15)]() |
+| Basic Rules | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Complete Rules | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Socket | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| CLI | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| GUI | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Multiple Games | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Resilience | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Local Game | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
+| Persistence | [![RED](https://via.placeholder.com/15/ff0000/ff0000)](#) |
+| Parameter Editor | [![RED](https://via.placeholder.com/15/ff0000/ff0000)](#) |
 
 #### Legend
-[![RED](http://placehold.it/15/f03c15/f03c15)]() Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;[![YELLOW](http://placehold.it/15/ffdd00/ffdd00)]() Implementing&nbsp;&nbsp;&nbsp;&nbsp;[![GREEN](http://placehold.it/15/44bb44/44bb44)]() Implemented
+[![RED](https://via.placeholder.com/15/ff0000/ff0000)](#) Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;[![YELLOW](https://via.placeholder.com/15/ffdd00/ffdd00)](#) Implementing&nbsp;&nbsp;&nbsp;&nbsp;[![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) Implemented
   
 ## Installation <a name="installationENG"></a>
 To start the game you need to download [JavaSE 15](https://www.oracle.com/it/java/technologies/javase-downloads.html) (or updated versions).
@@ -155,7 +155,7 @@ The player that will start the match can install [ngrok](https://ngrok.com/) to 
 
 Download the repo as it follow
 ```bash
-git clone https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni.git
+git clone https://github.com/williamzeni99/Maestri-del-Rinascimento.git
 ```
 on linux. For Windows should be necessary download the repo in zip format and then unzip it. 
 The executable files are stored in the `/shade` directory.
@@ -215,7 +215,7 @@ You can find the documentation [here](https://github.com/GiorgioSeguini/ing-sw-2
 The tests have reached the following coverage.
 
 
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/total.png)
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/server.png)
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/costant.png)
-![Test result](https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Documentation/client.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/total.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/server.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/costant.png)
+![Test result](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/client.png)
