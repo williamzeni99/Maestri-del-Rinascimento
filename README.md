@@ -135,7 +135,7 @@ This repo contains a **Java** version of the game [*Masters of renaissance*](htt
 ## Implemented Funcionalities <a name="functionalitiesENG"></a>
 | Functionalities | Status |
 |:-----------------------|:------------------------------------:|
-| Basic Rules | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
+| Basic Rules | [![GREEN](https://via.placeholder.com/15/00f000/00f000)](#) |
 | Complete Rules | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
 | Socket |[![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
 | CLI | [![GREEN](http://placehold.it/15/44bb44/44bb44)]() |
