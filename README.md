@@ -90,7 +90,7 @@ java -jar CLIENT_C39.jar ADDRESS PORT cli
 ## Come giocare<a name="howtoplayITA"></a>
 Le modalità di inizio partita possono essere tre: la prima consiste in una partita privata nella quale un utente può creare una stanza e tutti gli altri giocatori possono connettersi (si noti che il creatore della stanza deve comunicare il nome della stanza agli altri giocatori per poter accerdere) ; la seconda consiste nel poter giocare online con qualsiasi utente connesso al server (questa modalità avrebbe senso se le coordinate del server fossero pubbliche), basterà difatto solo identificarsi con un nome e inserirsi in una partia da un massimo di 4 giocatori; la terza non necessità di un server, ma si può giocare solo da soli. 
 
-Le regole del gioco italiane si trovano all'interno del repository [qui](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Lorenzo_Cardgame_Rules_ITA_small-3.pdf)
+Le regole del gioco italiane si trovano all'interno del repository [qui](https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/main/Documentation/Lorenzo_Cardgame_Rules_ITA_small-3.pdf)
 
 Nota bene: è sempre possibile riconettersi ad una partita in corso se si memorizzano il proprio `nickname` e il nome della `room`.
 
