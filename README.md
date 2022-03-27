@@ -14,7 +14,7 @@
  * [Tools](#toolsITA)
  * [Test e Documentazione](#testITA)
  
- <img src="https://github.com/GiorgioSeguini/ing-sw-2021-Seguini-Villa-Zeni/blob/master/Masters-of-Renaissance_box3D_front_ombra.png" width=300px height=300px align="right" />
+ <img src="https://github.com/williamzeni99/Maestri-del-Rinascimento/blob/master/Masters-of-Renaissance_box3D_front_ombra.png" width=300px height=300px align="right" />
 
 ## Il gioco <a name="gameITA"></a>
 Questo repo contiene una versione **Java** del gioco [*Maestri del rinascimento*](http://www.craniocreations.it/prodotto/masters-of-renaissance/). Il progetto è stato sviluppato durante l'anno 2020/21 per il corso di **Ingegneria del Software** al Politecnico di Milano, come parte finale di valutazione per il conseguimento della laurea triennale in Ingegneria Informatica. Gli sviluppatori sono stati:
