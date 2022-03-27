@@ -1,0 +1,32 @@
+.baseButton {
+    -fx-background-color:
+            #f1db75,
+    linear-gradient(#b4a552,  #f1db75);
+    -fx-background-radius: 3, 2, 1;
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 12 pt;
+    -fx-padding: 5px;
+    -fx-border-insets: 5px;
+}
+
+.basePane{
+    -fx-background-color:
+            #a69c7e,
+            linear-gradient(#a69c7e, #a47e3c);
+}
+
+.baseLabel{
+}
+
+#imageViewClicked{
+    -fx-effect: dropshadow(three-pass-box, rgba(5,0,0,3), 15, 0, 0, 0);
+}
+
+#imageView1{
+    -fx-effect: null;
+}
+.root{
+    -fx-background-color:
+            #a69c7e,
+            linear-gradient(#a69c7e, #a47e3c);
+}

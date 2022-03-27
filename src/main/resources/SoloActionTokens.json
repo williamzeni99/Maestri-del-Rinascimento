@@ -1,0 +1,39 @@
+[
+  {
+    "CLASSNAME": "MOVE2",
+    "INSTANCE": {}
+  },
+  {
+    "CLASSNAME": "MOVE2",
+    "INSTANCE": {}
+  },
+  {
+    "CLASSNAME": "MOVE_SHUFFLE",
+    "INSTANCE": {}
+  },
+  {
+    "CLASSNAME": "DISCARD2",
+    "INSTANCE": {
+      "color": "GREEN"
+    }
+  },
+  {
+    "CLASSNAME": "DISCARD2",
+    "INSTANCE": {
+      "color": "YELLOW"
+    }
+  },
+  {
+    "CLASSNAME": "DISCARD2",
+    "INSTANCE": {
+      "color": "PURPLE"
+    }
+  },
+  {
+    "CLASSNAME": "DISCARD2",
+    "INSTANCE": {
+      "color": "BLUE"
+    }
+  }
+]
+

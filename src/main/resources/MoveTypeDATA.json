@@ -1,0 +1,105 @@
+//Json Prototypes to implement MoveType
+[
+  //FOR MoveBuyDevCard
+  {
+    "Movetype": "MoveBuyDevCard",
+    "Position": 0,
+    "CardToBuy": 0, //devcard id
+  },
+  //FOR MoveChooseInitialResources, MoveDiscardResources
+  {
+    "Movetype": "MoveChoseInitialResources",
+    "Resources": {
+      "Servants": 0,
+      "Shields": 0,
+      "Coins": 0,
+      "Stones": 0
+    }
+  },
+  //FOR MoveChoseLeaderCards
+  {
+    "Movetype": "MoveChoseLeaderCards",
+    "LeaderCards": [0, 0], //Leader card id
+  },
+  //FOR MoveChoseResources
+  {
+    "Movetype": "MoveChoseLeaderCards",
+    "ResourcesIn": {
+      "Servants": 0,
+      "Shields": 0,
+      "Coins": 0,
+      "Stones": 0
+    },
+    "ResourcesOut": {
+      "Servants": 0,
+      "Shields": 0,
+      "Coins": 0,
+      "Stones": 0
+    }
+  },
+  //FOR MoveEndTurn
+  {
+    "Movetype":"MoveEndTurn"
+  },
+  //FOR MoveLeader
+  {
+    "Movetype": "MoveLeader",
+    "Move": 0,
+    "LeaderCard": 0 // Leader card id
+  },
+  //FOR MovetypeMarket
+  {
+    "Movetype": "MovetypeMarket",
+    "IndexToBuy": 0
+  },
+  //FOR MoveWhiteConversion
+  {
+    "Movetype": "MoveWhiteConversion",
+    "WhiteResources": [
+      "RES",
+      "RES",
+      "RES",
+      "RES"
+    ] //Resources Already Converted
+  },
+  //FOR MoveActiveProduction
+  {
+    "Movetype": "MoveActiveProduction",
+    "ProductionPowers":[
+      {
+        "FaithPointsOut":0,
+        "OutRes": {
+          "Servants": 0,
+          "Shields": 0,
+          "Coins": 0,
+          "Stones": 0
+        },
+        "InRes": {
+          "Servants": 0,
+          "Shields": 0,
+          "Coins": 0,
+          "Stones": 0
+        },
+        "YourChoiceIn": 0,
+        "YourChoiceOut": 0
+      },
+      {
+        "FaithPointsOut":0,
+        "OutRes": {
+          "Servants": 0,
+          "Shields": 0,
+          "Coins": 0,
+          "Stones": 0
+        },
+        "InRes": {
+          "Servants": 0,
+          "Shields": 0,
+          "Coins": 0,
+          "Stones": 0
+        },
+        "YourChoiceIn": 0,
+        "YourChoiceOut": 0
+      }
+    ]
+  }
+]
