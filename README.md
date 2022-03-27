@@ -1,6 +1,5 @@
 # ing-sw-2021-Seguini-Villa-Zeni
 ![latest commit](https://img.shields.io/github/last-commit/williamzeni99/Maestri-del-Rinascimento?color=red)
-![latest release](https://img.shields.io/github/v/release/williamzeni99/Maestri-del-Rinascimento?color=green)
  * [Italian Version](#ITA)
  * [English Version](#ENG)
  
